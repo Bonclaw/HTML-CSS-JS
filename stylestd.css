@@ -1,0 +1,18 @@
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  .r1 {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+  }
+  .r2 {
+    float: left;
+    width: 75%;
+    margin-top: 6px;
+  }
+ h1 {
+   color: #00ffff
+ }
